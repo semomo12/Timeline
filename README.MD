@@ -59,6 +59,10 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
+## To generate a Python file from .ui
+```bash
+pyside6-uic ui/core/main_window.ui -o ui/core/main_window_ui.py
+```
 
 ### Start the Application
 app/main.py
