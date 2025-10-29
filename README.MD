@@ -1,6 +1,6 @@
 # Timeline
 
-An timeline visualization application developed by Python and PySide6.
+An timeline application developed by Python and PySide6(QT).
 
 ## Overview
 
